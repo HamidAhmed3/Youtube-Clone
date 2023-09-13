@@ -1,0 +1,14 @@
+{
+    "db": {
+      "host": "localhost",
+      "port": 5432,
+      "username": "postgres",
+      "password": "conifer11",
+      "database": "Youtube",
+      "logging": false,
+      "dialect": "postgres"
+    },
+    "jwtSecret": {
+      "secret": "46d1e0f1a3234dfeebfa3219f81e947d6a58e4942c9a0c1b41d5093463e9989c"
+    }
+}
